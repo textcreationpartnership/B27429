@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Night-walkers declaration, or, The Distressed whores advice to all their sisters in city and country set forth (by way of confession) out of a deep sense of the tribulations they have lately  suffered.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27429</idno><idno type="EEBO-CITATION">31355572</idno>
+  <idno type="VID">187758</idno>
+  <idno type="EEBO-PROQUEST">2240897248</idno>
+  
+            <idno type="STC">Wing N1156</idno>
+            <idno type="OCLC">31355572</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187758)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1748:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Night-walkers declaration, or, The Distressed whores advice to all their sisters in city and country set forth (by way of confession) out of a deep sense of the tribulations they have lately  suffered.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance. Roger L'Estrange."</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prostitution --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187758:1"/>
+            <pb facs="tcp:187758:2"/>
+            <p>THE Night-walkers DECLARATION: Or, the Distressed Whores Advice To all their SISTERS IN CITY and COUNTRY.</p>
+            <p>Set forth (by way of Confession) out of a deep sense of the Tribulations they have lately suffered.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance. <hi>Roger L'Estrange.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>D. M.</hi> 1676.</p>
+            <pb facs="tcp:187758:3"/>
+            <pb facs="tcp:187758:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:187758:4"/>
+            <pb n="3" facs="tcp:187758:4"/>
+            <head>THE Night-walkers Declaration.</head>
+            <p>LOsers have leave <hi>to speak</hi> by vertue of the Proverb, and words are all the <hi>arms</hi> Na<g ref="char:EOLhyphen"/>ture affords our Sex, besides <hi>those</hi> de<g ref="char:EOLhyphen"/>sign'd for <hi>Embraces.</hi> 'Tis customary for people under <hi>Persecution</hi> publickly to <hi>complain,</hi> and we are not the first that have ventur'd to call Justice by that <hi>name.</hi> A little <hi>Rhetorick</hi> might serve to varnish over an Apology in our be<g ref="char:EOLhyphen"/>half, and we could alleadge Presidents of famous <hi>States,</hi> the Customes of <hi>Venice,</hi> and Indulgences of <hi>Rome;</hi> together with the Doctrines of ancient <hi>Phi<g ref="char:EOLhyphen"/>losophers,</hi> and private Practices of modern <hi>Virtuoso</hi>'s, which might be muster'd up in our favour; but we shall spare our <hi>Impudence</hi> in those particulars, having use enough for that Vertue on other occa<g ref="char:EOLhyphen"/>sions, and chuse rather to <hi>confess</hi> than justifie our Faults, as conceiving 'twill be far more acceptable to make an ingenuous <hi>acknowledgment</hi> of our Impru<g ref="char:EOLhyphen"/>dencies, and mark out the Rocks on which we have
+<pb n="4" facs="tcp:187758:5"/> cast away our selves, that others, taking warning, may avoid the like dismal <hi>Shipwracks.</hi>
+            </p>
+            <p>First then, we do <hi>declare</hi> (and that you know has been of late a very <hi>modish</hi> and frequent word a<g ref="char:EOLhyphen"/>mongst us) That the original cause of our ruine, or motives which prompted us in general to these lewd Courses, were <hi>Pride</hi> and <hi>Idleness.</hi> Nature had been so kinde to most of us, to afford us good Faces; or where she had plaid the Niggard or the Bungler, we endeavour'd to supply her defects with Art, and the Auxiliary help of the Dressing-box. The wanton humour of the age soon exposed us to flattering Temptations, and 'twas so taking a vanity to our Sex and years to be Brave and Gay, to appear in splendid Clothes and a fashionable Dress, that we were easily betray'd to part with the natural Jewels of Modesty and Vertue, for a slight Bracelet, a pret<g ref="char:EOLhyphen"/>ty Ring, or a tawdry Necklace, and sully our minds to finifie our bodies; as if we had no other use for our Souls, but to be Bawds to our Carcasses.</p>
+            <p>The fond Indulgence of our too-late-repenting Parents, contributed not a little to our destruction, bestowing upon us a Breeding and Maintainance far above <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur birth or their abilities. The time we should have spent in learning Good-houswifry, was trifled away at the Dancing school, in French, Mu<g ref="char:EOLhyphen"/>sick, New wanton Songs, Plays, Balls, infecting Ro<g ref="char:EOLhyphen"/>mances, <hi>&amp;c.</hi> the sight either of a Prayer-book or a pair of Sizzars was enough to put us into a Sound; or if at best our hands, a little exercised in <hi>Trawly<g ref="char:EOLhyphen"/>lawly, Net,</hi> or <hi>Point-work,</hi> could but furnish our Tails with an Inviting Garnish, we thought it both a suf<g ref="char:EOLhyphen"/>ficient Accomplishment and Imployment.</p>
+            <pb n="5" facs="tcp:187758:5"/>
+            <p>When we could get no further supplies from home for these Extravagancies, the Gallant abroad was ready to furnish us; and who could resist at once a double Inclination within, and the passionate Im<g ref="char:EOLhyphen"/>portunities of a civil Gentleman without? Brisk and Airy (which our dull Grandmothers would have call'd Wanton and Impudent) is long since become the Character of a Well bred-woman; and to be a Miss, was both a pleasant and thriving Undertaking. But the unhappy By-blow, or the Great Disease, the maintaining Friend disinherited, or undone, or weary of the same Face, or bewitch'd with Age, or reform'd by dear bought Experience, leaves the helpless Gentlewoman to her shifts; and what then is to be done, but <hi>Have at all?</hi> Fine she must be, work she will not; Friends disown her, Reputation is gone, and the sinking Vessel has nothing left to <hi>buoy</hi> her up, but the extreamest Impudence.</p>
+            <p>Then to the Entertaining or <hi>Procuring</hi> Matrons we repair, under whose protection, in a worse Ser<g ref="char:EOLhyphen"/>vitude than the most wretched Gally-slaves, we lie at the common Receipt of Custome; which in these hard times (not for want of Inclination but Money) finding very dead, necessity prompts us to seek out; and taking the opportunity of the Night (the fittest season for Deeds of Darkness) abroad we walk a <hi>Cully catching.</hi>
+            </p>
+            <p>
+               <hi>Fleetstreet, Holborn,</hi> and <hi>Cheapfide</hi> it self, can wit<g ref="char:EOLhyphen"/>ness with how many industrious and weary steps we have trac'd along even till Ten at night: How some<g ref="char:EOLhyphen"/>times we <hi>spread</hi> all our Sails, and presently <hi>lay by;</hi> now stopp'd our Course, and then hearkened for e<g ref="char:EOLhyphen"/>very
+<pb n="6" facs="tcp:187758:6"/>
+               <hi>inviting Hem;</hi> jostled, or star'd each Passenger in the face, call'd to them by strange Names, and the friendly salutation <hi>How d'ye Cozen;</hi> and sometimes fell down flat before 'um to attract their Civility; practicing all the mysteries of Enticing, Deluding, Solliciting, Fascinating, and Intoxicating, with so much Dexterity, Address, and Diligence, as if the Devil, grown weary of Temptation, had made us his onely Deputies; and all this often without so much as meeting one single Prize.</p>
+            <p>True it is, if we chanc'd to happen sometimes on a young Fop, or an old Leacher, a wilde Gallant or a Grave one, we got perhaps a pretty Treat, and now and then a <hi>George</hi> or two; or if soundly drunkifi'd, made bold to search their Fobs, and dive into their Pockets for an unnecessary <hi>Watch,</hi> or a few <hi>straggling Guinies:</hi> but alas, as great <hi>Rents,</hi> Parish-<hi>Duties,</hi> and Family-<hi>Expences</hi> are enough without quick Re<g ref="char:EOLhyphen"/>turns to undo the greatest Dealers; so the <hi>Bawds snips,</hi> the Surgeons <hi>Salary,</hi> the Apothecaries <hi>Bill,</hi> the <hi>Tallymans</hi> weekly Contribution, and constant bribes to <hi>Friends</hi> in office for Connivance, so deeply Excis'd our Gains, that (like <hi>Virginia</hi>-Traders) the Returns of the <hi>Cargo</hi> would scarce p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>Fraight</hi> and <hi>Cu<g ref="char:EOLhyphen"/>stoms;</hi> besides, the hazards we underwent of being <hi>disrob'd</hi> by Prentices upon every Uproar in the streets, <hi>pawn</hi>'d at Taverns, <hi>Sconces</hi> built at home by <hi>Bullies</hi> and <hi>Hectors,</hi> and that unconscionable Cheat of <hi>brass Half-crowns</hi> impos'd upon us by more seri<g ref="char:EOLhyphen"/>ous <hi>Camlet-cloak Customers</hi> after the most punctual bargain in the world, rendered our Occupation so inconsiderable, that one on's in forty was able to
+<pb n="7" facs="tcp:187758:6"/> purchase <hi>Paint and clean Linnen.</hi> But <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bove all to take the Trade of <hi>Trepanning</hi> out of our hands and turn it upon our selves, to wheadle us gravely into a Tavern, and instead of the Reckoning produce the <hi>short Staff,</hi> and hurry us away to the <hi>Hemp office:</hi> Verily, and by our truly, Gentlemen, it was a most <hi>unexpected</hi> (not to say rigorous and unreasonable) usage. <hi>Ʋnfortunate Sex</hi> of ours! whose Lot it is, if <hi>young</hi> and <hi>handsome,</hi> to be punished as <hi>Whores;</hi> if <hi>old</hi> and <hi>ugly,</hi> to be Carted for <hi>Bawds,</hi> or burn'd for <hi>Witches;</hi> if honest, to <hi>starve;</hi> if free &amp; complaisant, to be rail'd on, <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x'd, Trepau'd,</hi> and <hi>Bridewell'd;</hi> and all this by an <hi>ungrateful</hi> Generation, whom we en<g ref="char:EOLhyphen"/>deavour'd, through so many dangers, to <hi>oblige.</hi>
+            </p>
+            <p>But Complaints are vain, and we intend not to dis<g ref="char:EOLhyphen"/>pute the Justice of these Proceedings; onely thought fit to warn ignorant <hi>well wishers</hi> to our faculty, of the Hazards abroad; and advise them, if they must needs be <hi>kinde,</hi> to dispence their Favours in private, rather than make Bawdy houses of the <hi>Streets</hi> and <hi>Alleys.</hi> The truth is, after this late Animadversion, we finde our selves somewhat inclinable to turn honest: <hi>Cautiously</hi> at least, if not <hi>Chastly,</hi> is a good Motto; for proffer'd Ware you know always goes to a bad Market, and Experience shews (let people talk what they will of Marriage <hi>Bands</hi> and Matrimonial <hi>Shac<g ref="char:EOLhyphen"/>kles</hi>) that our Sex enjoys <hi>Pleasure</hi> and <hi>Liberty</hi> sel<g ref="char:EOLhyphen"/>dome so much, never so securely, as when under <hi>Covert-baron.</hi>
+            </p>
+            <p>At least (dear Sisters) let us advertise you to stand upon your Guard, traffique not with <hi>Strangers</hi> with<g ref="char:EOLhyphen"/>out good security: The <hi>City</hi> is a dangerous Port to
+<pb n="8" facs="tcp:187758:7"/> lade forbidden Wares in; rather ply on the Skirts of the Town, where 'tis more easie to <hi>Smuckle</hi> a Cully: since an <hi>Embargo</hi> is laid on publick Trade, <hi>enhance</hi> your favours to particular Gallants, to make good the Damage. Though <hi>Night-walking</hi> be forbid<g ref="char:EOLhyphen"/>den, the <hi>day</hi>'s our own; but have a care of the <hi>Painted Staff,</hi> and <hi>Marshals men.</hi> Leave off the <hi>White Colours,</hi> 'tis too notorious and dangerous; rather put on <hi>black Handkerchiefs</hi> and <hi>green Aprons,</hi> and then you pass amongst Friends without suspiti<g ref="char:EOLhyphen"/>on. Expose not your selves to every <hi>Sixpenny</hi>-Cu<g ref="char:EOLhyphen"/>stomer; tamper not with <hi>Prentices,</hi> unless they have the <hi>Cash</hi> under their Tuition. Know the Preroga<g ref="char:EOLhyphen"/>tives of your Profession; and leave off that <hi>scanda<g ref="char:EOLhyphen"/>lous</hi> trick of begging Pots of Ale of Porters and <hi>Foot-boys.</hi> In a word, render not your selves Cheap and Contemptible by an open Prostitution, but force the <hi>Fops</hi> to keep a Lent till <hi>Christmas,</hi> and 'tis an hundred to one, if you do not finde some of your Persecutors <hi>Solliciting</hi> in secret your Favours.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:187758:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
